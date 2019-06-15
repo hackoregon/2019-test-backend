@@ -1,0 +1,16 @@
+{
+    "_template": "gh:hackoregon/2019-backend-cookiecutter-django", 
+    "data_science_repo_name": "Test", 
+    "data_science_repo_url": "URL of repo where data science work is contained", 
+    "email": "stephen.tortora-lee@hackoregon.org", 
+    "full_name": "Stephen Tortora-Lee", 
+    "gis_project": "True", 
+    "github_repo": "2019-test-backend", 
+    "github_username": "unstasis", 
+    "hack_oregon_team": "Test", 
+    "project_short_description": "This is just to test the Backend Django Cookiecutter repo before teaching other people on it.", 
+    "python_package_namespace": "hackoregon_test", 
+    "python_subpackage": "tester", 
+    "version": "0.1.0", 
+    "year": "2019"
+}
